@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": "tomcat "
+      "value": "javatomcat "
     },
     "adminPassword": {
-      "value": "Tomcat@Tomcat"
+      "value": "Tomcat@gmail"
     },
     "dnsLabelPrefix": {
-      "value": "tomcat"
+      "value": "javatomcat"
     },
     "tomcatUserName": {
       "value": "azure"
