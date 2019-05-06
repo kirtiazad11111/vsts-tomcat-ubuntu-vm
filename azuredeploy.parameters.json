@@ -12,10 +12,10 @@
       "value": "tomcat"
     },
     "tomcatUserName": {
-      "value": "tomcat"
+      "value": "Tomcat"
     },
     "tomcatPassword": {
-      "value": "tomcat"
+      "value": "S3cret"
     },
     "sshPassPhrase": {
       "value": "tomcat"
