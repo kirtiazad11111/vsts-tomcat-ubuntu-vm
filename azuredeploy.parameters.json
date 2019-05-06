@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": "kirtiazad1234"
+      "value": "tomcat "
     },
     "adminPassword": {
-      "value": "Infy@gmail"
+      "value": "Tomcat@Tomcat"
     },
     "dnsLabelPrefix": {
-      "value": "kirti"
+      "value": "tomcat"
     },
     "tomcatUserName": {
-      "value": "kirtiazad1234"
+      "value": "tomcat"
     },
     "tomcatPassword": {
-      "value": "kirtiazad1234"
+      "value": "tomcat"
     },
     "sshPassPhrase": {
-      "value": "1234"
+      "value": "tomcat"
     }
   }
 }
